@@ -1,0 +1,3 @@
+::ng-deep Ngb-Modal-Backdrop{
+    z-index:999 !important;
+}
